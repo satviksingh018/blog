@@ -14,9 +14,6 @@ My work sits at the intersection of:
 – Simulation & FEA  
 – Manufacturing & DFM/DFA  
 – System Behavior & Validation
-
----
-
 ### What I Care About
 
 I’m interested in problems where engineering meets reality.
@@ -28,9 +25,6 @@ That means:
 
 I’m especially drawn to:  
 electric vehicles, lightweight structures, additive manufacturing, and intelligent mechanical systems.
-
----
-
 ### How I Think About Engineering
 
 Most systems today don’t fail loudly.  
@@ -45,18 +39,12 @@ I focus on:
 
 I’m less impressed by designs that look complex.  
 I care about systems that behave well when pushed.
-
----
-
 ### What I’ve Worked On
 
 – Generative design of a drone frame with 38% weight reduction and improved stiffness  
 – CAD modeling and FEA validation for structural and thermal systems  
 – Additive manufacturing with lattice optimization and real-world constraints  
 – Hands-on prototyping and iterative testing
-
----
-
 ### Where I’m Headed
 
 I want to work on next-generation mechanical systems in:  
@@ -64,9 +52,6 @@ automotive, EVs, and advanced manufacturing.
 
 Long term, my goal is simple:  
 build systems that are not just optimized — but trusted.
-
----
-
 ### Let’s Connect
 
 If you’re working on:  
