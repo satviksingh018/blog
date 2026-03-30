@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Satvik Singh",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -27,30 +27,30 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+colors: {
+  lightMode: {
+    light: "#f4f4f5",
+    lightgray: "#e4e4e7",
+    gray: "#a1a1aa",
+    darkgray: "#52525b",
+    dark: "#18181b",
+    secondary: "#2563eb",
+    tertiary: "#14b8a6",
+    highlight: "rgba(37, 99, 235, 0.12)",
+    textHighlight: "#fde04788",
+  },
+  darkMode: {
+    light: "#0f0f11",
+    lightgray: "#27272a",
+    gray: "#52525b",
+    darkgray: "#a1a1aa",
+    dark: "#f4f4f5",
+    secondary: "#3b82f6",
+    tertiary: "#2dd4bf",
+    highlight: "rgba(59, 130, 246, 0.18)",
+    textHighlight: "#fde04788",
+  },
+},
     },
   },
   plugins: {

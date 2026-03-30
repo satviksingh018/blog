@@ -2,11 +2,20 @@
 title: "Building your Quartz"
 ---
 
-Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve
 ```
+
+Alternatively, if you're working from this repository and want to use the bundled npm scripts, run:
+
+```bash
+npm install
+npm run docs
+```
+
+This will install dependencies and start the local preview server (equivalent to `npx quartz build --serve -d docs`).
 
 This will start a local web server to run your Quartz on your computer. Open a web browser and visit `http://localhost:8080/` to view it.
 
