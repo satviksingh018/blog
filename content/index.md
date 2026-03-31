@@ -5,6 +5,7 @@ date: 03/28/2026
 **Mechanical Engineer · USC M.S. · Automotive & Thermal Systems**
 
 ![[turbo.gif]]
+
 I build mechanical systems that don't just pass simulation : they survive reality.
 
 [singhsatvik662@gmail.com](mailto:singhsatvik662@gmail.com) · [LinkedIn](https://linkedin.com/in/satviksi) · [X / Twitter](https://x.com/satviksi)
@@ -33,7 +34,7 @@ My work lives at the intersection of **CAD**, **thermal simulation**, **powertra
 
 ## Projects
 
-### [Generative Drone Frame : Topology Optimization](content/Drone)
+### [[Drone|Generative Drone Frame : Topology Optimization]]
 
 120+ optimization cycles. Multi-load-case boundary conditions. Lattice density gradients tuned to local stress fields. Manufacturability constraints baked in from day one.
 
