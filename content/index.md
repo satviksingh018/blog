@@ -2,8 +2,6 @@
 title: Satvik Singh
 date: 03/28/2026
 ---
-# Satvik Singh
-
 **Mechanical Engineer · USC M.S. · Automotive & Thermal Systems**
 
 ![[turbo.gif]]
