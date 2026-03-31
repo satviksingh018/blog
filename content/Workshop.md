@@ -5,6 +5,7 @@ date: 03/30/2026
 **Hands-on diagnostics, engine systems, and mechanical repair · Petrol & Diesel**
 
 ![[eng.gif]]
+
 Before the simulations. Before the FEA. Before the CAD models.
 
 There was grease, a torque wrench, and an engine that wouldn't cooperate.
