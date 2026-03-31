@@ -47,19 +47,6 @@ My work lives at the intersection of **CAD**, **thermal simulation**, **powertra
 
 The frame looks like it _grew_. That's the point.
 
----
-
-### Drivetrain Torque Loss Analysis
-
-Modeled drivetrain torque loss across a full powertrain assembly. Identified heat pockets in thermal maps that conventional analysis missed. Iterated until the numbers matched what physics actually does : not what the datasheet claims.
-
----
-
-### Gearbox Dynamic Simulation
-
-End-to-end gearbox simulation: load cases, contact stress, fatigue life, failure modes. Not the kind of project you finish in a weekend. The kind you finish when it's right.
-
----
 
 ## How I Think
 
